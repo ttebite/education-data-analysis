@@ -1,10 +1,3 @@
-'''
-This file analyzes educational attainment data using pandas and seaborn.
-It includes functions to compare bachelor's degree attainment by sex, compute
-average educational attainment by minimum degree over time, and generate line
-and bar plots visualizing these trends.
-'''
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
