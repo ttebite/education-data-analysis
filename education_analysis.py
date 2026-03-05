@@ -1,6 +1,4 @@
 '''
-Taire Tebite
-CSE 163
 This file analyzes educational attainment data using pandas and seaborn.
 It includes functions to compare bachelor's degree attainment by sex, compute
 average educational attainment by minimum degree over time, and generate line
