@@ -31,10 +31,17 @@ and allow for easy comparison between groups.
 - `nces-ed-attainment.csv` – dataset used for the analysis  
 - `line_plot_min_degree.png` – line chart showing education attainment trends over time  
 - `bar_plot_high_school.png` – bar chart comparing high school completion rates  
-- `hw3_writeup.md` – written analysis and reflections on the results  
 
 ## Key Takeaways
 This project strengthened my experience working with real-world datasets, 
 cleaning and structuring data, and communicating insights through visualizations.
 It also reinforced the importance of using clear visual representations to make complex 
 data easier to understand.
+
+## Visualizations
+### High School Attainment Over Time
+![High School Plot](bar_plot_high_school.png)
+
+### Minimum Degree Attainment Over Time
+![Degree Plot](line_plot_min_degree.png)
+
